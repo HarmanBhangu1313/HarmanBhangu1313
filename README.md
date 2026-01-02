@@ -1,6 +1,6 @@
-# Hi, I'm Harman 👋
+# Hi, I'm Harman Singh Bhangu 👋
 
-AI Engineering student with a strong focus on fundamentals and research-oriented learning.
+Undergraduate student at IIT, focused on AI engineering and research-oriented learning.
 
 ## 🔍 Interests
 - Machine Learning & Deep Learning
