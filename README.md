@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Harman 👋
 
-<!--
-**HarmanBhangu1313/HarmanBhangu1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student with a strong focus on fundamentals and research-oriented learning.
 
-Here are some ideas to get you started:
+## 🔍 Interests
+- Machine Learning & Deep Learning
+- Reinforcement Learning
+- Transformers & Large Language Models
+- AI safety and model evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Learning Approach
+I focus on understanding AI systems from first principles —  
+studying theory, reproducing ideas from papers, and validating them through code.
+
+## 🛠 Skills
+- **Languages:** Python, C++
+- **Frameworks:** PyTorch, TensorFlow
+- **Tools:** NumPy, Pandas, OpenCV
+- **Concepts:** Optimization, Probability, Linear Algebra
+
+## 📌 Work in Progress
+- Deep reinforcement learning agents
+- Paper-based model implementations
+- Explorations in large language models
+
+---
+This profile will evolve as I build more advanced and research-focused projects.
