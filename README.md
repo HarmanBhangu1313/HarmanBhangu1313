@@ -24,4 +24,4 @@ studying theory, reproducing ideas from papers, and validating them through code
 - Explorations in large language models
 
 ---
-This profile will evolve as I build more advanced and research-focused projects.
+This profile will evolve as I build more advanced and research focused projects.
