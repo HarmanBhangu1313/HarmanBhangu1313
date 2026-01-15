@@ -1,6 +1,6 @@
 # Hi, I'm Harman Singh Bhangu 👋
 
-Undergraduate student at IIT, focused on AI engineering and research-oriented learning.
+Undergraduate student at IIT, focused on AI engineering and research oriented learning.
 
 ## 🔍 Interests
 - Machine Learning & Deep Learning
@@ -9,7 +9,7 @@ Undergraduate student at IIT, focused on AI engineering and research-oriented le
 - AI safety and model evaluation
 
 ## 🧠 Learning Approach
-I focus on understanding AI systems from first principles —  
+I focus on understanding AI systems from first principles  
 studying theory, reproducing ideas from papers, and validating them through code.
 
 ## 🛠 Skills
@@ -20,7 +20,7 @@ studying theory, reproducing ideas from papers, and validating them through code
 
 ## 📌 Work in Progress
 - Deep reinforcement learning agents
-- Paper-based model implementations
+- Paper based model implementations
 - Explorations in large language models
 
 ---
